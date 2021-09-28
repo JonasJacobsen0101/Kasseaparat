@@ -6,8 +6,15 @@ void setup(){
 int i = 1; //antal burgere købt
 int o = 3; //antal fries købt
 int p = 1; //antal soda købt
-println((56*1)+(3*11)+(1*16));
+println("Pris per burger: 56");
+println("Pris per fries: 11");
+println("Pris per soda: 16");
+println("");
+println("Antal burgere: 1");
+println("Antal fries: 3");
+println("Antal soda: 1");
+println("");
+print("Total: ");println((56*1)+(3*11)+(1*16));
+print("Tak for handlen");
 }
-void draw(){
-
-}
+//ffffffffggj
