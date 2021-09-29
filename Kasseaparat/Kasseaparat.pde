@@ -17,4 +17,3 @@ println("");
 print("Total: ");println((56*1)+(3*11)+(1*16));
 print("Tak for handlen");
 }
-//ffffffffggj
